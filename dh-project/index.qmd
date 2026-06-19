@@ -76,22 +76,20 @@ These entities do not simply feed off of fear but are fears made manifest. It is
 
 | Fear Entity | What It Stands For | Mark Words | Known Avatars |
 |-------------|--------------------|------------|---------------|
-| The Buried | Fear of confinement, suffocation, being trapped | "Close", "Deep", "Buried" | Enrique MacMillian, Hezekiah Wakely |
-| The Corruption | Fear of rot, disease, infestation | "Rot", "Hive", "Filth" | Jane Prentiss, John Amherst |
-| The Dark | Fear of blindness, unseen threats | "Pitch", "Blind", "Shadow" | People’s Church members, Callum Brodie |
-| The Desolation | Fear of fire, pain, senseless destruction | "Burn", "Ash", "Flame" | Agnes Montague, Jude Perry |
-| The End | Fear of death, inevitability | "Death", "Bones", "End" | Justin Gough, Oliver Banks |
-| The Eye | Fear of being watched, exposed | "See", "Know", "Watcher" | Jonah Magnus, Jonathan Sims, Gertrude Robinson |
-| The Flesh | Fear of meat, bodies, being butchered | "Meat", "Blood", "Viscera" | Jared Hopworth, John Haan |
-| The Hunt | Fear of being prey, chased | "Blood", "Chase", "Kill" | Daisy Tonner, Julia Montauk |
-| The Lonely | Fear of isolation, abandonment | "Alone", "Silence", "Forsaken" | Peter Lukas, Martin Blackwood |
-| The Slaughter | Fear of random violence, war | "Kill", "War", "Blood" | Melanie King, The Piper |
-| The Spiral | Fear of madness, lies, distortion | "Twist", "Lie", "Spiral" | The Distortion (Michael/Helen) |
-| The Stranger | Fear of the uncanny, masks, mannequins | "Mask", "Uncanny", "Unknown" | Nikola Orsinov, Breekon & Hope |
-| The Vast | Fear of heights, insignificance, falling | "Fall", "Sky", "Void" | Mike Crew, Simon Fairchild |
-| The Web | Fear of manipulation, control, spiders | "Web", "Spider", "Trap" | Annabelle Cane, Raymond Fielding |
-| The Extinction | Fear of catastrophic change, humanity’s end | "Change", "Extinction", "Future" | Emerging, avatars unclear |
-
+| The Buried | Fear of confinement, suffocation, being trapped | 'buried', 'earth', 'dirt', 'claustrophobic', 'suffocate', 'crush', 'pressure', 'deep', 'underground', 'grave' | Enrique MacMillian, Hezekiah Wakely |
+| The Corruption | Fear of rot, disease, infestation | 'worm', 'wasp', 'corruption', 'rot', 'decay', 'mold', 'infection', 'disease', 'filth', 'contaminate', 'insect', 'maggot' | Jane Prentiss, John Amherst |
+| The Dark | Fear of blindness, unseen threats | 'dark', 'darkness', 'shadow', 'lightless', 'blind', 'night', 'black', 'obscure', 'gloom' | People’s Church members, Callum Brodie |
+| The Desolation | Fear of fire, pain, senseless destruction | 'desolation', 'fire', 'burn', 'destroy', 'devastation', 'ash', 'flame', 'scorch' | Agnes Montague, Jude Perry |
+| The End | Fear of death, inevitability | 'death', 'die', 'mortal', 'final', 'grave', 'coffin', 'terminal', 'mortality', 'expire', 'dead' | Justin Gough, Oliver Banks |
+| The Eye | Fear of being watched, exposed | 'record', 'witness', 'observe', 'document', 'truth', 'vision', 'knowing', 'beholding', 'gaze', 'eye','watch' | Jonah Magnus, Jonathan Sims, Gertrude Robinson |
+| The Flesh | Fear of meat, bodies, being butchered | 'flesh', 'meat', 'animal', 'bone', 'slaughter', 'butcher', 'body', 'skin', 'muscle', 'carnage', 'blood' | Jared Hopworth, John Haan |
+| The Hunt | Fear of being prey, chased | 'hunt', 'hunter', 'prey', 'pursue', 'track', 'fang', 'beast', 'predator', 'chase', 'wild' | Daisy Tonner, Julia Montauk |
+| The Lonely | Fear of isolation, abandonment | 'lonely', 'alone', 'abandoned', 'empty', 'forgotten', 'fog', 'mist', 'isolated', 'solitude', 'apart', 'cold' | Peter Lukas, Martin Blackwood |
+| The Slaughter | Fear of random violence, war | 'slaughter', 'war', 'violence', 'kill', 'murder', 'massacre', 'carnage', 'combat', 'battle', 'bullet' | Melanie King, The Piper |
+| The Spiral | Fear of madness, lies, distortion | 'spiral', 'madness', 'insane', 'crazy', 'distortion', 'mind', 'dream', 'unreliable', 'hallucination', 'fractal' | The Distortion (Michael/Helen) |
+| The Stranger | Fear of the uncanny, masks, mannequins | 'stranger', 'unknown', 'unfamiliar', 'mask', 'mannequin', 'circus', 'skin', 'identity', 'uncanny', 'doll' | Nikola Orsinov, Breekon & Hope |
+| The Vast | Fear of heights, insignificance, falling | 'vast', 'sky', 'height', 'open', 'ocean', 'space', 'depth', 'fall', 'expanse', 'void', 'infinite' | Mike Crew, Simon Fairchild |
+| The Web | Fear of manipulation, control, spiders | 'spider', 'web', 'thread', 'manipulate', 'control', 'plan', 'trap', 'scheme', 'puppet', 'string' | Annabelle Cane, Raymond Fielding |
 
 ![fear_heatmap](images/fear_heatmap.png)
 
